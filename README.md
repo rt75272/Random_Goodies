@@ -1,2 +1,2 @@
 # Random_Goodies
-Random and ridiculous fun with Python 
+Random and ridiculous goodies built with Python 
