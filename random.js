@@ -31,4 +31,5 @@ for(var i = 0; i < n; i++) {
     console.log("Tails success rate: " + tails_success_rate);
 }
 
-
+document.getElementById("heads").innerHTML = heads_success_rate;
+document.getElementById("tails").innerHTML = tails_success_rate;
